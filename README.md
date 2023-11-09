@@ -1,6 +1,5 @@
 # final-test
-Jawaban Final Test
-
+GADIS SYAHRANI ELHAKIM
 
 Essay 1 - ETL
 Sebagai seorang Data Engineer, kamu diberikan tugas untuk melakukan Web Scraping kumpulan berita dari suatu API.
